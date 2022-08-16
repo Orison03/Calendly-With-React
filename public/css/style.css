@@ -1,0 +1,560 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.col-md-6 img{
+    width: 0px;
+}
+
+.col-md-3 .first{
+    margin-left: -20px;
+    font-weight: bold;
+    color: black;
+}
+
+
+.col-md-3 img{
+    height: auto;
+    width: 150px;
+}
+
+.col-md-3 .second{
+    margin-left: -150px;
+    font-weight: bold;
+    color: black;
+}
+
+.col-md-3 .third{
+    margin-left: -320px;
+    font-weight: bold;
+    color: black;
+}
+
+.navbar{
+    margin-top: 20px;
+    font-weight: bold;
+    color: black;
+}
+.col-md-3 .links:hover{
+    color: #3498db;   
+}
+
+.col-md-12 .col-md-3 a{
+    text-decoration-line: none;
+} 
+
+.laptop{
+    margin-top: 100px;
+    margin-bottom: 40%;
+}
+
+.col-md-6 h1{
+    margin-left: 120px;
+    font-size: 60px;
+    font-weight: bolder;
+    margin-top: -15px;
+}
+
+.col-md-6 span{
+    color: #3498db;
+}
+
+.col-md-6 img{
+    width: 400px;
+    margin-top: -40px;
+    margin-left: -150px;
+}
+
+.col-md-6 p{
+    margin-left: 120px;
+    font-weight: 600; 
+}
+
+.col-md-6 input{
+    margin-left: 140px;
+    margin-top: 20px;
+    border-radius: 20px;
+    padding: 20px;
+    padding-right: 150px;
+    border-color: #3498db;
+    box-shadow: rounded white;
+    border: 0.5;
+}
+
+.col-md-6 span #first-btn{
+    position: absolute;
+    margin-left: 373px;
+    margin-top: 22px;
+    padding: 17px;
+    border-radius: 18px;
+    border: none;
+    background-color: black;
+    color: white;
+    padding-top: 21px;
+    padding-bottom: 19px;
+}
+
+.col-md-6 .subtitle{
+    margin-top: 10px;
+    font-style: normal;
+    font-weight: 100;
+}
+
+.row .sponsers{
+    background-color: #ecf0f1;
+    padding: 20px 0;
+    width: 100% ;
+    margin-bottom: 10%;
+}
+
+.sponser-headers h2{
+    font-weight: bold;
+    color: black;
+}
+
+.sponser-headers h2 span{
+    color: #3498db;
+} 
+
+.col-md-3 .compass{
+    letter-spacing: 2px;
+    margin-left: 45px;
+}
+
+.col-md-3 .app{
+    width: 150px;
+    margin-left: 45px;
+}
+
+.col-md-3 .ebay{
+   margin-left: 45px;
+}
+
+
+.col-md-3 .nike{
+    margin-left: 45px;
+}
+
+.brief h3{
+    font-weight: bolder;
+    font-size: 30px;
+    color: black;
+    
+}
+
+.brief{
+    margin-left: 100px;
+    border-left: 1px dotted #3498db;
+    margin-right: -100px;
+    margin-bottom: 10%;
+}
+
+.brief p{
+    font-size: 20px;
+    padding-top: 5px;
+}
+
+.brief span button{
+    border: none;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 10px;
+    background-color: #3498db;
+    color: white;
+    margin-left: -27px;
+}
+
+ .col-md-3 .index{
+    font-size: 100px;
+}
+
+/* --individuals-- */
+.man{
+    margin-top: 70px;
+    margin-left: -90px;
+}
+.man h1{
+    font-size: 55px;
+    font-weight: bolder;
+    color: black;
+}
+
+.man h1 span{
+    color: #3498db;
+}
+
+.mobile-img img{
+    margin-top: 50px;
+    margin-left: 90px;
+    height: 70%;
+    width: 500px;
+}
+
+.man p{
+    font-size: 20px;
+    margin-top: 50px;
+    font-weight: bold;
+    word-spacing: 2px;
+    margin-bottom: 40px;
+}
+
+.man button{
+    margin-left: 120px;
+    padding: 20px 45px;
+    border: none;
+    color: white;
+    background-color: black;
+    border-radius: 30px;
+}
+
+.better{
+    margin-bottom: 90px;
+}
+
+.laptop2 img{
+    margin-left: 120px;
+}
+
+.book-up p{
+    font-size: 15px;
+    font-weight: lighter;
+    margin-bottom: 35px;
+}
+
+.book-up h2{
+    font-size: 35px;
+    margin-left: 115px;
+    font-weight: bolder;
+    color: black;
+    margin-bottom: 35px;
+}
+
+.book-up .subtitle{
+    font-size: 19px;
+    word-spacing: 2px;
+    font-weight: bold;
+}
+
+.phone img{
+     margin-top: 30px;
+     margin-left: 115px;
+}
+
+.notification{
+    margin-bottom: 90px;
+}
+
+.jumbotron{
+    background-color: #3498db;
+}
+
+.jumbotron .submit{
+    border-radius: 20px;
+    background-color: white;
+    color: #3498db;
+    border: none;
+}
+
+.jumbotron .submit:hover{
+    background-color: #bdc3c7;
+}
+
+.footer h1{
+    color: black;
+
+}
+
+.footer span h1{
+    color: #3498db;
+    margin-bottom: 25px;
+}
+
+.footer p{
+    font-size: 18px;
+    color: #3498db;
+    margin-bottom: 50px;
+}
+
+.footer select{
+    padding: 8px;
+    padding-right: 175px;
+    color: #273c75;
+    margin-bottom: 40px;
+}
+
+.footer2 p{
+    font-size: 18px;
+    margin-top: 20px;
+    color: #3498db;
+}
+
+.footer2 h2{
+    color: black;
+    font-size: 35px;
+}
+
+.popular h2{
+    font-size: 35px;
+}
+
+.footer-individual{
+    margin: 0 150px;
+}
+
+.countries p{
+    margin-left: 20px;
+}
+
+
+/* !-----terms----- */
+.terms-1{
+    margin-top: 140px;
+    margin-bottom: 100px;
+}
+
+.terms-row-1 #power{
+    color: #3498db;
+}
+.terms-row-1 .your{
+    color: #273c75;
+    margin-bottom: 30px;
+}
+
+.banner img{
+    margin-left: 45px;
+    margin-top: 22px;
+}
+
+.terms-row-1 p{
+    font-size: 19px;
+    font-weight: lighter;
+    color: #3498db;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+}
+
+.button-1 button{
+    margin-left: 120px;
+    margin-top: 10px;
+    padding: 11px 19px;
+    border: none;
+    background-color: #3498db;
+    color: white;
+    border-radius: 20px;
+}
+
+.button-2 button{
+    margin-left: -60px;
+    margin-top: 10px;
+    padding: 11px 19px;
+    border: 1px solid black;
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+}
+
+.button-1 button:hover{
+    background-color: #273c75;
+}
+
+
+.button-2 button:hover{
+    background-color: #3498db;
+    color: white;
+    border: none;
+}
+
+.maintext-in-terms h1{
+     font-size: 50px;
+     font-weight: bolder;
+     color: #273c75;
+     margin-bottom: 110px;
+}
+
+.row-3 img{
+    margin-left: 160px;
+}
+
+.text p{
+    margin-left: 150px;
+    margin-top: -50px;
+}
+
+.text h2{
+    margin-left: 150px;
+    color: black;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.text .subtitle {
+    font-size: 17px;
+}
+
+.terms-2{
+    margin-bottom: 70px;
+}
+
+.row .slove{
+    color: #3498db;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+ .row .encourage{
+    color: black;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+.cards-1 img{
+    width: 100%;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+.cards-1{
+   border: 1px solid none;
+   border-radius: 25px;
+   width: 26rem;
+   margin-right: 32px;
+   margin-bottom: 5%;
+   background: linear-gradient(135deg,rgba(255,255,255,0.1),rgba(255,255,255,0));
+   backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
+
+.cards-1 h3{
+    margin-left: 30px;
+    margin-bottom: 10px;
+    color: black;
+    margin-top: 10px;
+    font-size: 30px;
+}
+
+.cards-1 p{
+    margin-left: 30px;
+    font-size: 17px;
+    font-weight: lighter;
+    margin-bottom: 40px;
+}
+
+.cards-1 .btn{
+    margin-left: 30px;
+    border: none;
+    background-color: none;
+    color: white;
+    background-color: #3498db;
+    margin-bottom: 20px;
+}
+
+.cards-1 .btn:hover{
+    background-color: #273c75;
+}
+
+/* !--enterprise-- */
+.ent h1{
+    font-size: 50px;
+    color: black;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+.ent h1 span{
+    color: #3498db;
+}
+
+.ent p{
+    font-size: 23px;
+    color: black;
+}
+
+.ent #last-p{
+    margin-bottom: 35px;
+}
+
+.ent button{
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 20px 33px;
+    border-radius: 25px;
+    margin-bottom: 35px;
+}
+
+.ent button p{
+    color: white;
+}
+
+.ent button:hover{
+    background-color: #3498db;
+}
+
+.ent-2 h2{
+    color: white;
+    margin-bottom: 25px;
+
+}
+
+.ent-2{
+    background-color: #3498db;
+}
+
+.col-md-3 .enterprise{
+    font-size: 100px;
+    margin-bottom: 40px;
+}
+
+.ent-2{
+    margin-bottom: 40px;
+}
+
+.card-ent .ent-3 h3{
+    margin-bottom: 30px;
+    color: #3498db;
+    margin-left: 138px;
+}
+
+.card-ent .ent-3{
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 45px;
+    background: linear-gradient(135deg,rgba(255,255,255,0.1),rgba(255,255,255,0));
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+
+}
+
+.card-ent .ent-3 .enterprise{
+    font-size: 110px;
+    margin-bottom: 40px;
+    margin-left: 120px;
+    margin-bottom: 30px;
+}
+
+.card-ent .ent-3 p{
+    font-size: 20px;
+    color: black;
+    font-family: bold;
+    margin-left: 75px;
+    color: #3498db;
+    box-shadow: 130px;
+}
+
+.ent-3{
+    margin-bottom: 50px;
+    width: 37rem;
+    margin-left: 15px;
+}
+
+
